@@ -34,7 +34,7 @@
 
 **5.** Download [SonarQube Runner](http://repo1.maven.org/maven2/org/codehaus/sonar/runner/sonar-runner-dist/2.4/sonar-runner-dist-2.4.zip) and unzip the downloaded file into the */opt/* directory
 
-`sudo unzip ~/Dowloads/sonar-runner-dist-2.4.zip /opt/`
+`sudo unzip ~/Dowloads/sonar-runner-dist-2.4.zip -d /opt/`
 
 **6.** Update the global settings by editing */opt/sonar-runner-2.4/conf/sonar-runner.properties* file. The result should be as below
 
